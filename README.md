@@ -1,15 +1,15 @@
 # Credit-Card-Financial-Dashboard
-🎉Power BI :Credit Card Financial Dashboard Project Unveiled! 🎉
+**🎉Power BI :Credit Card Financial Dashboard Project Unveiled! 🎉**
 I'm thrilled to share my latest Power BI project – a comprehensive credit card financial dashboard 📊.✨ This interactive tool dives deep into key performance indicators (KPIs), empowering stakeholders to make informed decisions and optimize credit card operations.
 
 
-🔍 Project Objective:
+**🔍 Project Objective:**
 Deliver real-time insights into crucial KPIs. 📈
 Enhance stakeholder decision-making capabilities. 🤝
 Identify potential challenges. 🚧
 Optimize credit card operations for success. 🚀
 
-💡 Key Insights:
+**💡 Key Insights:**
 ⭐Revenue Surge: A remarkable 28.8% weekly growth (WoW) boosts revenue, reaching $57M year-to-date (YTD). 📈💵
 ⭐ Transaction Powerhouse: Total transaction volume generates a significant $46M. 💳💰
 ⭐ Customer Acquisition: Encouraging activation rates stand at 57.5%. 👥
